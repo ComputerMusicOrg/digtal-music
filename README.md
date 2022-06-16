@@ -5,4 +5,4 @@
 + AU adobe公司开发
 + AAX adobe公司开发
 + LV2 开源技术 跨平台，以linux为主
-+ CLAP Bitwig Studio公司开发 [咨询页](https://www.midifan.com/modulenews-detailview-43705.htm)
++ CLAP Bitwig Studio公司开发 [资讯页](https://www.midifan.com/modulenews-detailview-43705.htm)
