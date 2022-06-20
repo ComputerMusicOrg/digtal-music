@@ -56,3 +56,14 @@
   + 开发者信息：国外某开发者自研，后成立软件公司
 + 特性：
   + 轻量级，高性能，软件体积小
+
+### WaveForm Free
++ [官网](https://www.tracktion.com/)
++ 描述：
+  + 开发者信息：Tracktion Corporation公司
+  + 是否开源：闭源
+  + 产地：未知
+  + 使用授权：免费
++ 特性：
+  + 轻量级，高性能
+  + 支持vsti2,vsti3
