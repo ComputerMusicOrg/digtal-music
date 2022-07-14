@@ -67,3 +67,6 @@
 + 特性：
   + 轻量级，高性能
   + 支持vsti2,vsti3
+## 如果你要自己造合成器电路，请参考下面的链接
+1. [Multisim](https://www.ni.com/zh-cn/support/downloads/software-products/download.multisim.html#452133) 适合做模拟电路
+2. [Proteus](https://www.labcenter.com/) 适合做数字电路
