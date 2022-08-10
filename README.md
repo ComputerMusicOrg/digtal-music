@@ -72,3 +72,6 @@
 2. [Proteus](https://www.labcenter.com/) 适合做数字电路
 ## 如果你想利用软件技术造合成器，请参考下面的链接
 1. [puredata](https://puredata.info/) 可视化编程
+
+## 开源音源插件
+1. ZynAddsubFx [新版官网](https://zynaddsubfx.sourceforge.io/zyn-fusion.html) [旧版官网](https://zynaddsubfx.sourceforge.io/doc_2.html)
