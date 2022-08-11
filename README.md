@@ -78,3 +78,4 @@
 
 ## 开源歌声合成技术
 1. [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)
+2. [openutau](https://github.com/stakira/OpenUtau)
