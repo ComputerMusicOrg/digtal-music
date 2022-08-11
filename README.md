@@ -75,3 +75,6 @@
 
 ## 开源音源插件
 1. ZynAddsubFx [新版官网](https://zynaddsubfx.sourceforge.io/zyn-fusion.html) [旧版官网](https://zynaddsubfx.sourceforge.io/doc_2.html) [midifan介绍](https://www.midifan.com/modulesoftware-detailview-6965.htm)
+
+## 开源歌声合成技术
+1. [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)
