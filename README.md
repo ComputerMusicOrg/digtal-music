@@ -80,3 +80,6 @@
 1. [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)
 2. [openutau](https://github.com/stakira/OpenUtau)
 3. [Vogen](https://github.com/aqtq314/Vogen.Client)
+
+## 作曲编曲资料库
+1. [作曲编曲资料库](https://github.com/ixinzhi/music)
