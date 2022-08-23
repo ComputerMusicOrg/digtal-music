@@ -67,6 +67,7 @@
 + 特性：
   + 轻量级，高性能
   + 支持vsti2,vsti3
+  
 ## 如果你要自己造合成器电路，请参考下面的链接 （这种方式比较硬核）
 1. [Multisim](https://www.ni.com/zh-cn/support/downloads/software-products/download.multisim.html#452133) 适合做模拟电路
 2. [Proteus](https://www.labcenter.com/) 适合做数字电路
@@ -75,6 +76,7 @@
 
 ## 开源音源插件
 1. ZynAddsubFx [新版官网](https://zynaddsubfx.sourceforge.io/zyn-fusion.html) [旧版官网](https://zynaddsubfx.sourceforge.io/doc_2.html) [midifan介绍](https://www.midifan.com/modulesoftware-detailview-6965.htm)
+2. [Oi-Grandad](https://github.com/publicsamples/Oi-Grandad) [资讯页](https://www.midifan.com/modulenews-detailview-44154.htm)
 
 ## 开源歌声合成技术
 1. [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)
