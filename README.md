@@ -6,7 +6,8 @@
 + AAX adobe公司开发
 + LV2 开源技术 跨平台，以linux为主
 + CLAP Bitwig Studio公司开发 [资讯页](https://www.midifan.com/modulenews-detailview-43705.htm) 出自Midifan.com [开源地址](https://github.com/free-audio/clap)
-
+## 电脑音频处理插件技术
++ [LadSpa](https://www.ladspa.org/) linux 开源技术
 ## 音乐制作软件(DAW)
 ### sunvox
 + [官网](https://warmplace.ru/soft/sunvox/)
